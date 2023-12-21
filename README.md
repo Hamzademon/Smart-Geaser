@@ -1,4 +1,4 @@
-# Smart-Geaser
+# Smart-Geyser
 Title: Smart Geyser Controller with ESP8266
 
 Overview:
